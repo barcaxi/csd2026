@@ -4,7 +4,7 @@
 
 This will copy some ``jQuery`` program files to your ``htdocs`` folder.  
 
-Go to [this link](https://github.com/barcaxi/csd2025) and download the repository ZIP file.  Copy the folder ``jQuery`` into your XAMPP ``htdocs`` folder.
+Go to [this link](https://github.com/barcaxi/csd2026) and download the repository ZIP file.  Copy the folder ``jQuery`` into your XAMPP ``htdocs`` folder.
 
 Check your ``htdocs`` folder.  You should have a new folder called ``jQuery`` with some files in it.
 
